@@ -9,4 +9,3 @@
    e. IMPORTANT: in the terminal, run: npx prisma db push
    - This allows pushes your schema to the db, allowing you to create new tables
      f. To test the user, go to this link, and follow the instructions on the page: https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/relational-databases/querying-the-database-typescript-postgres
-# Budgeteer-2.0
